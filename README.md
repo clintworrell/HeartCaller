@@ -15,7 +15,7 @@ Station Browsing
 
 <img src="/public/assets/images/ss2.png" alt="Drawing" style="width: 200px;"/>
 
-Connection between DJ interface (left) and User interface(right) using Socket.io
+Connection between DJ interface (left) and User interface (right) using Socket.io
 
 <img src="/public/assets/images/ss3.png" alt="Drawing" style="width: 200px;"/>
 
