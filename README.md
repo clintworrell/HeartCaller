@@ -1,10 +1,10 @@
-# Shape-Hackathon
+# iHeartCaller
 
-This application is the winner of the iHeartRadio Sponsor Challenge at the 2016 AT&T Shape Hackathon and was developed by five students at the Galvanize Immersive Web Development program.
+This application is the winner of the iHeartRadio API Challenge at the 2016 AT&T Shape Hackathon. It was developed by five students in the Galvanize full stack web development program.
 
-HeartCaller utilizes iHeartRadio's API so users can browse a list of stations based on genre and city as well as submit song requests to the DJ via messaging and Socket.io.
+iHeartCaller utilizes iHeartRadio's API so listeners can browse a list of stations based on genre or city. Listeners can also submit song requests to the DJ via WebSocket-based chat.
 
-After about 3 months of being in the Galvanize program, we wanted to see how well we would fair against hundreds of very talented software engineers. It was definitely a rewarding experience that really tested our knowledge and fortitude. We learned valuable lessons on working with a team in a high-pressure, time-sensitive environment and hope to participate in future hackathons. Be sure to checkout the video below to see the app in action!
+After about 3 months of being in the Galvanize program, we wanted to see how well we would fair against other software engineers. It was definitely a rewarding experience and we learned valuable lessons on working with a team in a high-pressure, time-sensitive environment. Checkout the video below to see the app in action!
 
 ## Screenshots and Video
 Landing Page
@@ -15,7 +15,7 @@ Station Browsing
 
 <img src="/public/assets/images/ss2.png" alt="Drawing" style="width: 200px;"/>
 
-Connection between DJ Interface(left) and User Interface(right) using Socket.io
+Connection between DJ interface (left) and User interface(right) using Socket.io
 
 <img src="/public/assets/images/ss3.png" alt="Drawing" style="width: 200px;"/>
 
