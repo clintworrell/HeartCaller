@@ -21,7 +21,7 @@ Connection between DJ interface (left) and User interface (right) using Socket.i
 
 Please visit the following link for a short demo of the application:
 
-[HeartCaller](https://vimeo.com/174959538)
+[iHeartCaller](https://vimeo.com/174959538)
 ## Technologies:
 
 * Node
